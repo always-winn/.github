@@ -20,6 +20,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/refs/heads/main/public/assets/snake.svg" alt="Snake animation" />
 
 ###
