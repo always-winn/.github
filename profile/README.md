@@ -1,25 +1,18 @@
-<br clear="both">
-
 <div align="center">
-  <img height="500" src="https://i.imgur.com/91yNeV6.png"  />
-</div>
+  <img src="https://i.imgur.com/91yNeV6.png" alt="always.win logo" height="300"/>
 
-###
-
-<h6 align="center">always.win</h6>
-
-###
-
-<div align="center">
+  ## always.win
+  *"We don’t play to win. We play because we always do."*
+  
+  ---
+  
+  ### Connect with us
+  
   <a href="https://discord.gg/6kBU87yXwh" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="42" alt="discord logo"  />
+    <img src="https://cdn.simpleicons.org/discord/ffffff" width="48" height="48" alt="Discord logo" />
   </a>
+  
+  ---
+  
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/refs/heads/main/public/assets/snake.svg" alt="Snake animation"/>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/refs/heads/main/public/assets/snake.svg" alt="Snake animation" />
-
-###
